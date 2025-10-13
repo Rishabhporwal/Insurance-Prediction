@@ -1,0 +1,4 @@
+2025-10-13 16:11:00,171 - INFO - Data Ingestion directories are created
+2025-10-13 16:11:00,171 - INFO - Starting data ingestion process.
+2025-10-13 16:11:00,173 - INFO - Raw data read successfully from /Users/rishabhporwal/Desktop/Insurance_Project/data/raw/insurance.csv
+2025-10-13 16:11:00,176 - INFO - Ingested data saved to /Users/rishabhporwal/Desktop/Insurance_Project/artifacts/train.csv

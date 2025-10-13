@@ -1,0 +1,6 @@
+2025-10-13 18:38:12,736 - INFO - Data transformation directories created.
+2025-10-13 18:38:12,736 - INFO - Initiating data transformation...
+2025-10-13 18:38:12,738 - INFO - Data loaded successfully.
+2025-10-13 18:38:12,739 - INFO - Feature engineering completed.
+2025-10-13 18:38:12,750 - INFO - Transformed data saved to /Users/rishabhporwal/Desktop/Insurance_Project/artifacts/all_processed.csv.
+2025-10-13 18:38:12,751 - INFO - Preprocessor object saved to /Users/rishabhporwal/Desktop/Insurance_Project/artifacts/preprocessor.pkl.

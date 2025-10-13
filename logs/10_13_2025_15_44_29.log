@@ -1,0 +1,8 @@
+2025-10-13 15:44:29,019 - INFO - Starting smoke test for logger + exceptions
+2025-10-13 15:44:29,019 - ERROR - Caught an exception in trigger_error(): Exception occurred in trigger_error at /Users/rishabhporwal/Desktop/Insurance_Project/tests/log_exception_testing.py:11
+division by zero
+2025-10-13 15:44:29,019 - INFO - Short formatted exception: Exception occurred in trigger_error at /Users/rishabhporwal/Desktop/Insurance_Project/tests/log_exception_testing.py:11
+division by zero
+2025-10-13 15:44:29,019 - INFO - Wrapped as CustomException: Exception occurred in trigger_error at /Users/rishabhporwal/Desktop/Insurance_Project/tests/log_exception_testing.py:11
+division by zero
+2025-10-13 15:44:29,019 - INFO - Smoke test completed.

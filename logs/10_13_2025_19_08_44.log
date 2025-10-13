@@ -1,0 +1,16 @@
+2025-10-13 19:08:44,800 - INFO - Training pipeline started
+2025-10-13 19:08:44,800 - INFO - Data Ingestion directories are created
+2025-10-13 19:08:44,800 - INFO - Starting data ingestion process.
+2025-10-13 19:08:44,801 - INFO - Raw data read successfully from /Users/rishabhporwal/Desktop/Insurance_Project/data/raw/insurance.csv
+2025-10-13 19:08:44,803 - INFO - Ingested data saved to /Users/rishabhporwal/Desktop/Insurance_Project/artifacts/train.csv
+2025-10-13 19:08:44,803 - INFO - Data transformation directories created.
+2025-10-13 19:08:44,803 - INFO - Initiating data transformation...
+2025-10-13 19:08:44,804 - INFO - Data loaded successfully.
+2025-10-13 19:08:44,804 - INFO - Feature engineering completed.
+2025-10-13 19:08:44,811 - INFO - Transformed data saved to /Users/rishabhporwal/Desktop/Insurance_Project/artifacts/all_processed.csv.
+2025-10-13 19:08:44,811 - INFO - Preprocessor object saved to /Users/rishabhporwal/Desktop/Insurance_Project/artifacts/preprocessor.pkl.
+2025-10-13 19:08:44,811 - INFO - Starting model training...
+2025-10-13 19:08:44,812 - INFO - Processed data loaded successfully.
+2025-10-13 19:08:44,814 - INFO - Model training completed.
+2025-10-13 19:08:44,814 - INFO - Trained model saved to /Users/rishabhporwal/Desktop/Insurance_Project/models/best_insurance_model.pkl.
+2025-10-13 19:08:44,814 - INFO - Training pipeline completed successfully

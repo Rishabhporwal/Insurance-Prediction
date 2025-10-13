@@ -1,0 +1,4 @@
+2025-10-13 19:04:51,054 - INFO - Starting model training...
+2025-10-13 19:04:51,055 - INFO - Processed data loaded successfully.
+2025-10-13 19:04:51,058 - INFO - Model training completed.
+2025-10-13 19:04:51,058 - INFO - Trained model saved to /Users/rishabhporwal/Desktop/Insurance_Project/models/best_insurance_model.pkl.
